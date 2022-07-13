@@ -1,6 +1,6 @@
 # 8-DIGIT
 
-BD 08 Digit id Clone
+BD 08 Digit id Clone.
 
 ➡rm-rf 8-DIGIT
 
